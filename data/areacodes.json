@@ -1,0 +1,3314 @@
+[
+    {
+        "areacode": "201",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "202",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "DistrictofColumbia",
+        "state_abbrv": "DC"
+    },
+    {
+        "areacode": "203",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Connecticut",
+        "state_abbrv": "CT"
+    },
+    {
+        "areacode": "205",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Alabama",
+        "state_abbrv": "AL"
+    },
+    {
+        "areacode": "206",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Washington",
+        "state_abbrv": "WA"
+    },
+    {
+        "areacode": "207",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Maine",
+        "state_abbrv": "ME"
+    },
+    {
+        "areacode": "208",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST",
+            "PST"
+        ],
+        "state": "Idaho",
+        "state_abbrv": "ID"
+    },
+    {
+        "areacode": "209",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "210",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "212",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "213",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "214",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "215",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "216",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "217",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "218",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Minnesota",
+        "state_abbrv": "MN"
+    },
+    {
+        "areacode": "219",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "EST"
+        ],
+        "state": "Indiana",
+        "state_abbrv": "IN"
+    },
+    {
+        "areacode": "224",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "225",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Louisiana",
+        "state_abbrv": "LA"
+    },
+    {
+        "areacode": "228",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Mississippi",
+        "state_abbrv": "MS"
+    },
+    {
+        "areacode": "229",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "231",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "234",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "239",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "240",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Maryland",
+        "state_abbrv": "MD"
+    },
+    {
+        "areacode": "248",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "251",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Alabama",
+        "state_abbrv": "AL"
+    },
+    {
+        "areacode": "252",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "253",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Washington",
+        "state_abbrv": "WA"
+    },
+    {
+        "areacode": "254",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "256",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Alabama",
+        "state_abbrv": "AL"
+    },
+    {
+        "areacode": "260",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Indiana",
+        "state_abbrv": "IN"
+    },
+    {
+        "areacode": "262",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Wisconsin",
+        "state_abbrv": "WI"
+    },
+    {
+        "areacode": "267",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "269",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "270",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "EST"
+        ],
+        "state": "Kentucky",
+        "state_abbrv": "KY"
+    },
+    {
+        "areacode": "272",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "276",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Virginia",
+        "state_abbrv": "VA"
+    },
+    {
+        "areacode": "281",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "301",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Maryland",
+        "state_abbrv": "MD"
+    },
+    {
+        "areacode": "302",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Delaware",
+        "state_abbrv": "DE"
+    },
+    {
+        "areacode": "303",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Colorado",
+        "state_abbrv": "CO"
+    },
+    {
+        "areacode": "304",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "West Virginia",
+        "state_abbrv": "WV"
+    },
+    {
+        "areacode": "305",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "307",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Wyoming",
+        "state_abbrv": "WY"
+    },
+    {
+        "areacode": "308",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "MST"
+        ],
+        "state": "Nebraska",
+        "state_abbrv": "NE"
+    },
+    {
+        "areacode": "309",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "310",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "312",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "313",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "314",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Missouri",
+        "state_abbrv": "MO"
+    },
+    {
+        "areacode": "315",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "316",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Kansas",
+        "state_abbrv": "KS"
+    },
+    {
+        "areacode": "317",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Indiana",
+        "state_abbrv": "IN"
+    },
+    {
+        "areacode": "318",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Louisiana",
+        "state_abbrv": "LA"
+    },
+    {
+        "areacode": "319",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Iowa",
+        "state_abbrv": "IA"
+    },
+    {
+        "areacode": "320",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Minnesota",
+        "state_abbrv": "MN"
+    },
+    {
+        "areacode": "321",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "323",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "325",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "330",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "331",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "334",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "EST"
+        ],
+        "state": "Alabama",
+        "state_abbrv": "AL"
+    },
+    {
+        "areacode": "336",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "337",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Louisiana",
+        "state_abbrv": "LA"
+    },
+    {
+        "areacode": "339",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "346",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "347",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "351",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "352",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "360",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Washington",
+        "state_abbrv": "WA"
+    },
+    {
+        "areacode": "361",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "364",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "EST"
+        ],
+        "state": "Kentucky",
+        "state_abbrv": "KY"
+    },
+    {
+        "areacode": "385",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Utah",
+        "state_abbrv": "UT"
+    },
+    {
+        "areacode": "386",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "401",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Rhode Island",
+        "state_abbrv": "RI"
+    },
+    {
+        "areacode": "402",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "MST"
+        ],
+        "state": "Nebraska",
+        "state_abbrv": "NE"
+    },
+    {
+        "areacode": "404",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "405",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Oklahoma",
+        "state_abbrv": "OK"
+    },
+    {
+        "areacode": "406",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Montana",
+        "state_abbrv": "MT"
+    },
+    {
+        "areacode": "407",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "408",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "409",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "410",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Maryland",
+        "state_abbrv": "MD"
+    },
+    {
+        "areacode": "412",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "413",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "414",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Wisconsin",
+        "state_abbrv": "WI"
+    },
+    {
+        "areacode": "415",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "417",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Missouri",
+        "state_abbrv": "MO"
+    },
+    {
+        "areacode": "419",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "423",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST",
+            "CST"
+        ],
+        "state": "Tennessee",
+        "state_abbrv": "TN"
+    },
+    {
+        "areacode": "424",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "425",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Washington",
+        "state_abbrv": "WA"
+    },
+    {
+        "areacode": "430",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "432",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "434",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Virginia",
+        "state_abbrv": "VA"
+    },
+    {
+        "areacode": "435",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Utah",
+        "state_abbrv": "UT"
+    },
+    {
+        "areacode": "440",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "442",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "443",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Maryland",
+        "state_abbrv": "MD"
+    },
+    {
+        "areacode": "458",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST",
+            "MST"
+        ],
+        "state": "Oregon",
+        "state_abbrv": "OR"
+    },
+    {
+        "areacode": "469",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "470",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "475",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Connecticut",
+        "state_abbrv": "CT"
+    },
+    {
+        "areacode": "478",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "479",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Arkansas",
+        "state_abbrv": "AR"
+    },
+    {
+        "areacode": "480",
+        "timezone_offset": -7,
+        "dst": false,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Arizona",
+        "state_abbrv": "AZ"
+    },
+    {
+        "areacode": "484",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "501",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Arkansas",
+        "state_abbrv": "AR"
+    },
+    {
+        "areacode": "502",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Kentucky",
+        "state_abbrv": "KY"
+    },
+    {
+        "areacode": "503",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Oregon",
+        "state_abbrv": "OR"
+    },
+    {
+        "areacode": "504",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Louisiana",
+        "state_abbrv": "LA"
+    },
+    {
+        "areacode": "505",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "New Mexico",
+        "state_abbrv": "NM"
+    },
+    {
+        "areacode": "507",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Minnesota",
+        "state_abbrv": "MN"
+    },
+    {
+        "areacode": "508",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "509",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Washington",
+        "state_abbrv": "WA"
+    },
+    {
+        "areacode": "510",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "512",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "513",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "515",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Iowa",
+        "state_abbrv": "IA"
+    },
+    {
+        "areacode": "516",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "517",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "518",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "520",
+        "timezone_offset": -7,
+        "dst": false,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Arizona",
+        "state_abbrv": "AZ"
+    },
+    {
+        "areacode": "530",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "531",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "MST"
+        ],
+        "state": "Nebraska",
+        "state_abbrv": "NE"
+    },
+    {
+        "areacode": "534",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Wisconsin",
+        "state_abbrv": "WI"
+    },
+    {
+        "areacode": "539",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Oklahoma",
+        "state_abbrv": "OK"
+    },
+    {
+        "areacode": "540",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Virginia",
+        "state_abbrv": "VA"
+    },
+    {
+        "areacode": "541",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST",
+            "MST"
+        ],
+        "state": "Oregon",
+        "state_abbrv": "OR"
+    },
+    {
+        "areacode": "551",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "559",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "561",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "562",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "563",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Iowa",
+        "state_abbrv": "IA"
+    },
+    {
+        "areacode": "567",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "570",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "571",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Virginia",
+        "state_abbrv": "VA"
+    },
+    {
+        "areacode": "573",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Missouri",
+        "state_abbrv": "MO"
+    },
+    {
+        "areacode": "574",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST",
+            "CST"
+        ],
+        "state": "Indiana",
+        "state_abbrv": "IN"
+    },
+    {
+        "areacode": "575",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "New Mexico",
+        "state_abbrv": "NM"
+    },
+    {
+        "areacode": "580",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Oklahoma",
+        "state_abbrv": "OK"
+    },
+    {
+        "areacode": "585",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "586",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "601",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Mississippi",
+        "state_abbrv": "MS"
+    },
+    {
+        "areacode": "602",
+        "timezone_offset": -7,
+        "dst": false,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Arizona",
+        "state_abbrv": "AZ"
+    },
+    {
+        "areacode": "603",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Hampshire",
+        "state_abbrv": "NH"
+    },
+    {
+        "areacode": "605",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "MST"
+        ],
+        "state": "South Dakota",
+        "state_abbrv": "SD"
+    },
+    {
+        "areacode": "606",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST",
+            "CST"
+        ],
+        "state": "Kentucky",
+        "state_abbrv": "KY"
+    },
+    {
+        "areacode": "607",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "608",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Wisconsin",
+        "state_abbrv": "WI"
+    },
+    {
+        "areacode": "609",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "610",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "612",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Minnesota",
+        "state_abbrv": "MN"
+    },
+    {
+        "areacode": "614",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "615",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Tennessee",
+        "state_abbrv": "TN"
+    },
+    {
+        "areacode": "616",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "617",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "618",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "619",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "620",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "MST"
+        ],
+        "state": "Kansas",
+        "state_abbrv": "KS"
+    },
+    {
+        "areacode": "623",
+        "timezone_offset": -7,
+        "dst": false,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Arizona",
+        "state_abbrv": "AZ"
+    },
+    {
+        "areacode": "626",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "630",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "631",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "636",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Missouri",
+        "state_abbrv": "MO"
+    },
+    {
+        "areacode": "641",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Iowa",
+        "state_abbrv": "IA"
+    },
+    {
+        "areacode": "646",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "650",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "651",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Minnesota",
+        "state_abbrv": "MN"
+    },
+    {
+        "areacode": "657",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "660",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Missouri",
+        "state_abbrv": "MO"
+    },
+    {
+        "areacode": "661",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "662",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Mississippi",
+        "state_abbrv": "MS"
+    },
+    {
+        "areacode": "667",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Maryland",
+        "state_abbrv": "MD"
+    },
+    {
+        "areacode": "669",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "678",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "681",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "West Virginia",
+        "state_abbrv": "WV"
+    },
+    {
+        "areacode": "682",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "701",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "MST"
+        ],
+        "state": "North Dakota",
+        "state_abbrv": "ND"
+    },
+    {
+        "areacode": "702",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Nevada",
+        "state_abbrv": "NV"
+    },
+    {
+        "areacode": "703",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Virginia",
+        "state_abbrv": "VA"
+    },
+    {
+        "areacode": "704",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "706",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "707",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "708",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "712",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Iowa",
+        "state_abbrv": "IA"
+    },
+    {
+        "areacode": "713",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "714",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "715",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Wisconsin",
+        "state_abbrv": "WI"
+    },
+    {
+        "areacode": "716",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "717",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "718",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "719",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Colorado",
+        "state_abbrv": "CO"
+    },
+    {
+        "areacode": "720",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Colorado",
+        "state_abbrv": "CO"
+    },
+    {
+        "areacode": "724",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "725",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Nevada",
+        "state_abbrv": "NV"
+    },
+    {
+        "areacode": "727",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "731",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Tennessee",
+        "state_abbrv": "TN"
+    },
+    {
+        "areacode": "732",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "734",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "737",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "740",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "747",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "754",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "757",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Virginia",
+        "state_abbrv": "VA"
+    },
+    {
+        "areacode": "760",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "762",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "763",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Minnesota",
+        "state_abbrv": "MN"
+    },
+    {
+        "areacode": "765",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Indiana",
+        "state_abbrv": "IN"
+    },
+    {
+        "areacode": "769",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Mississippi",
+        "state_abbrv": "MS"
+    },
+    {
+        "areacode": "770",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "772",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "773",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "774",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "775",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST",
+            "MST"
+        ],
+        "state": "Nevada",
+        "state_abbrv": "NV"
+    },
+    {
+        "areacode": "779",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "781",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "785",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "MST"
+        ],
+        "state": "Kansas",
+        "state_abbrv": "KS"
+    },
+    {
+        "areacode": "786",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "801",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Utah",
+        "state_abbrv": "UT"
+    },
+    {
+        "areacode": "802",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Vermont",
+        "state_abbrv": "VT"
+    },
+    {
+        "areacode": "803",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "South Carolina",
+        "state_abbrv": "SC"
+    },
+    {
+        "areacode": "804",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Virginia",
+        "state_abbrv": "VA"
+    },
+    {
+        "areacode": "805",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "806",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "808",
+        "timezone_offset": -10,
+        "dst": false,
+        "primary_timezone": "HAST",
+        "timezones": [
+            "HAST"
+        ],
+        "state": "Hawaii",
+        "state_abbrv": "HI"
+    },
+    {
+        "areacode": "810",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "812",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST",
+            "CST"
+        ],
+        "state": "Indiana",
+        "state_abbrv": "IN"
+    },
+    {
+        "areacode": "813",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "814",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "815",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "816",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Missouri",
+        "state_abbrv": "MO"
+    },
+    {
+        "areacode": "817",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "818",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "828",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "830",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "831",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "832",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "843",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "South Carolina",
+        "state_abbrv": "SC"
+    },
+    {
+        "areacode": "845",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "847",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "848",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "850",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST",
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "856",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "857",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "858",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "859",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Kentucky",
+        "state_abbrv": "KY"
+    },
+    {
+        "areacode": "860",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Connecticut",
+        "state_abbrv": "CT"
+    },
+    {
+        "areacode": "862",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "863",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "864",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "South Carolina",
+        "state_abbrv": "SC"
+    },
+    {
+        "areacode": "865",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Tennessee",
+        "state_abbrv": "TN"
+    },
+    {
+        "areacode": "870",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Arkansas",
+        "state_abbrv": "AR"
+    },
+    {
+        "areacode": "872",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Illinois",
+        "state_abbrv": "IL"
+    },
+    {
+        "areacode": "878",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Pennsylvania",
+        "state_abbrv": "PA"
+    },
+    {
+        "areacode": "901",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Tennessee",
+        "state_abbrv": "TN"
+    },
+    {
+        "areacode": "903",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "904",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "906",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST",
+            "CST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "907",
+        "timezone_offset": -9,
+        "dst": true,
+        "primary_timezone": "AKST",
+        "timezones": [
+            "AKST",
+            "HAST"
+        ],
+        "state": "Alaska",
+        "state_abbrv": "AK"
+    },
+    {
+        "areacode": "908",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "909",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "910",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "912",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Georgia",
+        "state_abbrv": "GA"
+    },
+    {
+        "areacode": "913",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Kansas",
+        "state_abbrv": "KS"
+    },
+    {
+        "areacode": "914",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "915",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST",
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "916",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "917",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "918",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Oklahoma",
+        "state_abbrv": "OK"
+    },
+    {
+        "areacode": "919",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "920",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Wisconsin",
+        "state_abbrv": "WI"
+    },
+    {
+        "areacode": "925",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "928",
+        "timezone_offset": -7,
+        "dst": false,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Arizona",
+        "state_abbrv": "AZ"
+    },
+    {
+        "areacode": "929",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New York",
+        "state_abbrv": "NY"
+    },
+    {
+        "areacode": "931",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Tennessee",
+        "state_abbrv": "TN"
+    },
+    {
+        "areacode": "936",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "937",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Ohio",
+        "state_abbrv": "OH"
+    },
+    {
+        "areacode": "938",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Alabama",
+        "state_abbrv": "AL"
+    },
+    {
+        "areacode": "940",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "941",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "947",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    },
+    {
+        "areacode": "949",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "951",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "California",
+        "state_abbrv": "CA"
+    },
+    {
+        "areacode": "952",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Minnesota",
+        "state_abbrv": "MN"
+    },
+    {
+        "areacode": "954",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Florida",
+        "state_abbrv": "FL"
+    },
+    {
+        "areacode": "956",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "959",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Connecticut",
+        "state_abbrv": "CT"
+    },
+    {
+        "areacode": "970",
+        "timezone_offset": -7,
+        "dst": true,
+        "primary_timezone": "MST",
+        "timezones": [
+            "MST"
+        ],
+        "state": "Colorado",
+        "state_abbrv": "CO"
+    },
+    {
+        "areacode": "971",
+        "timezone_offset": -8,
+        "dst": true,
+        "primary_timezone": "PST",
+        "timezones": [
+            "PST"
+        ],
+        "state": "Oregon",
+        "state_abbrv": "OR"
+    },
+    {
+        "areacode": "972",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "973",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "New Jersey",
+        "state_abbrv": "NJ"
+    },
+    {
+        "areacode": "978",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Massachusetts",
+        "state_abbrv": "MA"
+    },
+    {
+        "areacode": "979",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Texas",
+        "state_abbrv": "TX"
+    },
+    {
+        "areacode": "980",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "984",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "North Carolina",
+        "state_abbrv": "NC"
+    },
+    {
+        "areacode": "985",
+        "timezone_offset": -6,
+        "dst": true,
+        "primary_timezone": "CST",
+        "timezones": [
+            "CST"
+        ],
+        "state": "Louisiana",
+        "state_abbrv": "LA"
+    },
+    {
+        "areacode": "989",
+        "timezone_offset": -5,
+        "dst": true,
+        "primary_timezone": "EST",
+        "timezones": [
+            "EST"
+        ],
+        "state": "Michigan",
+        "state_abbrv": "MI"
+    }
+]
