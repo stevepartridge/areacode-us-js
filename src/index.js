@@ -1,8 +1,7 @@
 var
   phone = require('phone'),
   _ = require('lodash'),
-  areacodes = require('./data/areacodes.json'),
-  states = require('./data/states.json')
+  areacodes = require('../data/areacodes.json')
   ;
 
 function validateAndNormalizeNumber(num) {
