@@ -3,22 +3,22 @@ Basic package for extracting area code information from phone numbers and area c
 
 ### Usage
 
-####byCode(3 Digit Number)
+#### byCode (3 Digit Number)
 >**Success:** *Returns information about given area code* 
 
 >**Error:** *Returns false*
 
-####byNumber(Phone Number - [*E.164*](http://en.wikipedia.org/wiki/E.164))
+#### byNumber (Phone Number - [*E.164*](http://en.wikipedia.org/wiki/E.164))
 >**Success:** *Returns information about the provided phone number's areacode*
 
  >**Error:** *Returns false*
  
-####extractFromNumber(Phone Number, [E.164](http://en.wikipedia.org/wiki/E.164))
+#### extractFromNumber (Phone Number, [E.164](http://en.wikipedia.org/wiki/E.164))
 >**Success:** *Returns 3 digit area code extracted from provided phone number*
 
 >**Error:** *Returns false*
 
-####Area Code Example Object
+#### Area Code Example Object
 
 	{
 	    "areacode": "534",
